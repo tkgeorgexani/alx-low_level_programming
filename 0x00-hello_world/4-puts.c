@@ -9,7 +9,7 @@
  * main - Prints "Programming is like building a multilingual
  *                puzzle, followed by a new line.
  *
- * Return the value 0.
+ * Return: always 0.
  */
 int main(void)
 {
