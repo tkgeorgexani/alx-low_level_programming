@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints the alphabet in lowercase, and then in uppercase.
+ * main - Prints the alphabet in lowercase,
  * Use putchar not printf, puts
  * code in main
  * use putchar only twice
