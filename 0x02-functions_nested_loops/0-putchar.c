@@ -1,10 +1,7 @@
 /*
  * File Name: 0-putchar.c
- *
 */
-
-#include <stdio.h>
-#include <main.h>
+#include "main.h"
 
 /**
  * main - print "_putchar" and a new line.
